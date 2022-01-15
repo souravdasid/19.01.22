@@ -1,0 +1,32 @@
+.bappi-mama{
+    color:red ;
+  
+}
+section{
+    display: flex;
+    padding: 2%;
+}
+.header img{width: 80%;
+padding: 2%;
+}
+.header{
+    width: 50%;
+}
+.h1class{
+    color: black;
+    background-image: url() src;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 25px;
+}
+.button{
+    color: white;
+    background-color: red;
+    border: none;
+    margin:20px;
+    padding: 12px 25px;
+    border-radius: 10px;
+}
